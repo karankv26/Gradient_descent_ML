@@ -2,4 +2,4 @@
 
 
 
-Implemented gredienr descent in ML and DL for reference!!!
+Implemented gredient descent in ML and DL for reference!!!
